@@ -1,0 +1,9 @@
+.search-container {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+
+.display {
+  margin-top: 15px;
+}
