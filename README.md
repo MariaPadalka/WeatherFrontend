@@ -29,7 +29,7 @@ This is the frontend component of a weather application that displays weather da
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/WeatherFrontend.git
+   git clone https://github.com/MariaPadalka/WeatherBackend.git
    cd WeatherFrontend
    ```
 
